@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 92d046097d6b33a4aab508480f93e76e
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 21c3ae7b727a05944a12fe85c6481a33
+  - enabled: 1
+    path: Assets/Scenes/fase.unity
+    guid: 334c6d1ec12de9145b3a71034b5e4307
+  - enabled: 1
+    path: Assets/Scenes/Morreu.unity
+    guid: e7e2e0c7d0610594898256ff7569bffe
+  - enabled: 1
+    path: Assets/Scenes/Vitoria.unity
+    guid: a4b87a85d628df540982dd2ec76911a3
+  - enabled: 1
+    path: Assets/Scenes/CenaLoad.unity
+    guid: 5cdfa967ddd7f7e4ab7753b106374673
+  m_configObjects: {}
